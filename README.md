@@ -1,4 +1,3 @@
 # StarLab_11
-star lab .
+# StarLab_11 This repository is created for practicing Git and GitHub basic commands.
 
-.
